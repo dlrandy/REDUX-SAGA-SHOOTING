@@ -38,8 +38,6 @@
     ]
   },
   "devDependencies": {
-    "@redux-saga/testing-utils": "^1.0.5",
-    "@types/redux-devtools": "^3.0.47",
-    "redux-devtools": "^3.5.0"
+    "@redux-saga/testing-utils": "^1.0.5"
   }
 }
